@@ -134,7 +134,7 @@ For example, in this guide, the Alphas are presented using Alpha overview cards,
 
 
 
-![](캡처.PNG)]
+![](figure1.PNG)]
 
 
 
