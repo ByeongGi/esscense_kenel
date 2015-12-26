@@ -127,8 +127,21 @@ To make the Essence Kernel accessible and easy to use this guide presents the ke
     Alphas 그리고 Competencies는 전반적인 형식과 정의들과 체크리스트를 지원하는 카드 세트로 주고있다.
 
 For example, in this guide, the Alphas are presented using Alpha overview cards, Alpha state cards and full checklists. The cards and checklists used to present the Stakeholder Alpha are shown in Figure 1 below.
-     
-    예를 들면, 이 가이드에서는, 
+    
+    예를 들면, 이 가이드에서는, 알파들을 overview cards, Alpha state cards 
+    그리고 full checklists 를 제공한다. 카드와 체크리스트는 아래에 그림처럼 이해관계자 알파를 나타내는데 사용된다.
+    
+
+
+
+![](캡처.PNG)]
+
+
+
+
+ 
+
+
 
 
 
