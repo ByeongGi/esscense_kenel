@@ -106,19 +106,31 @@ Each area of concern contains a small number of:
 maintaining and supporting software.
 
     알파들 - 기본적으로 작업되는 것들의 대표적인 것이다.
-    알파들은 팀에서 관리하고 , 생산하고, 개발에과정에서 사용 것들에 대한 표현이다. 
+    알파들은 팀에서 관리하고 , 생산하고, 개발에 과정에서 사용되는 여러가지 것들에 
+    대한 표현을 제공한다. 
     
 • Competencies –representations of the key competencies required to do software engineering.
+    
+    소프트엔지리어닝에 필요한 핵심 역량(기능)에 대한 대표하는 것들이다.
 
-• Activity Spaces – representations of the essential things to do. The Activity Spaces identify and
-list generic challenges a team faces when developing, maintaining and supporting software systems, and the kinds of things that the team will do to meet them.
-To make the Essence Kernel accessible and easy to use
-number of complementary ways. The Alphas and Compe
-sets of cards with supporting definitions and checklists.
-overview form.
+• Activity Spaces – representations of the essential things to do. The Activity Spaces identify and list generic challenges a team faces when developing, maintaining and supporting software systems, and the kinds of things that the team will do to meet them.
+    
+    활동 영역 - 기본적으로 해야하는 대표군들. 활동 영역들은 소프트 웨어 시스템에서 개발,
+    유지보수, 지원할 때 일반적으로 직면하는 도전들과 팀이 소프트웨어 시스템에서 충족될어야 할것들을 인식되고 리스트된다. 
+    => 해석) 
+    소프트웨어 개발할떄 직면하는 문제와 소프트웨서를 만들때 꼭 충족되야 할 문제들을 말함 
+    
+To make the Essence Kernel accessible and easy to use this guide presents the kernel elements in a number of complementary ways. The Alphas and Competencies are presented in overview form and as sets of cards with supporting definitions and checklists. The Activity Spaces are presented purely in overview form.
 
-For example, in this guide, the Alphas are presented usin
-full checklists. The cards and checklists used to present below.
+    에센스 커널에 접근하기 위해서나, 쉽게 사용하기 위해서 
+    많은 상호보완적인 방법들이 있는 커널 요소들을 이 가이드는 제공하고 있다.
+    Alphas 그리고 Competencies는 전반적인 형식과 정의들과 체크리스트를 지원하는 카드 세트로 주고있다.
+
+For example, in this guide, the Alphas are presented using Alpha overview cards, Alpha state cards and full checklists. The cards and checklists used to present the Stakeholder Alpha are shown in Figure 1 below.
+     
+    예를 들면, 이 가이드에서는, 
+
+
 
 
 
